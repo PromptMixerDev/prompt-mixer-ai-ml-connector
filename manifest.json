@@ -1,0 +1,11 @@
+{
+  "id": "prompt-mixer-aiml",
+  "name": "AI/ML Connector",
+  "version": "1.0.0",
+  "minAppVersion": "0.1.0",
+  "description": "This plugin connects to AI/ML LLM models via API.",
+  "author": "Prompt Mixer",
+  "authorUrl": "https://promptmixer.dev",
+  "fundingUrl": "https://promptmixer.dev/pricing",
+  "isDesktopOnly": false
+}
